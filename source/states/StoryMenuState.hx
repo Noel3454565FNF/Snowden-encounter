@@ -283,11 +283,6 @@ class StoryMenuState extends MusicBeatState
 			for (i in 0...leWeek.length) {
 				songArray.push(leWeek[i][0]);
 			}
-			if (loadedWeeks[curWeek].fileName == "weekSands")
-			{
-				MusicBeatState.switchState(new FirstVideo());
-			}
-
 			// Nevermind that's stupid lmao
 			try
 			{
