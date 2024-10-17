@@ -1,0 +1,3 @@
+credits
+value1 = song
+value2 = autor

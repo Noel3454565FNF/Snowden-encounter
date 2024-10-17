@@ -1,0 +1,2 @@
+camera turns in diagonal and the movements its in diagonal
+true or false

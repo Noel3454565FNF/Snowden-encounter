@@ -1,0 +1,4 @@
+the camera shake with the beats of the music 
+(but shakes a little bit weird, for me, its better 
+to use "angleBound" and "camBound" event)
+true or false

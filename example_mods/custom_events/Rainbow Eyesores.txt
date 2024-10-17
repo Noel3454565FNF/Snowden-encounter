@@ -1,0 +1,14 @@
+The thingy that triggers the rainbow eyesore.
+
+Works in a different way compared to the OG
+eyesore, and acts more like a enhanced version of
+Blammed Lights.
+
+Will NOT work if "Flashing Lights" being off. When this
+happens, a message will appear on the top-left corner.
+
+Fade off time is based on the current BPM.
+Algorithm: 2 / curBpm * 50
+
+Value 1: Function time, in seconds.
+Value 2: Flashing speed. Recommended Value is: 1.5.

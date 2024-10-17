@@ -1,0 +1,2 @@
+the hud shaking with the beat from the song (just shaking, no bouncing)
+true or false

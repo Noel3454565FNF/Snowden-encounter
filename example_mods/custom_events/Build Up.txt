@@ -1,0 +1,4 @@
+Makes the camera fade into whatever color you select. This event is disabled when Flashing Lights are disabled :3
+
+Value 1: speed at which it fades in. Current BPM = 1 Beat
+Value 2: color of flash. default is #ffffff (white)

@@ -8,10 +8,7 @@ art/test_x64-debug-officialrelease.bat
 ### VS Code
 export/*
 .vscode/*
-.haxelib/
-.github/
 *.code-workspace
-vs_Community.exe
 # Local history which shouldn't be shared.
 .history
 .ionide
@@ -21,5 +18,3 @@ vs_Community.exe
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-art/build_html.bat
-art/build_html-debug.bat

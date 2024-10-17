@@ -1,0 +1,2 @@
+the camera bounces in beat
+true or false

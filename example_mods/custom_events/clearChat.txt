@@ -1,0 +1,3 @@
+Clears the minecraft chat
+value1 = time it takes to clear it
+if you put 0 it sometimes bugs :/, i just put 0.001 when i need to put 0 in there

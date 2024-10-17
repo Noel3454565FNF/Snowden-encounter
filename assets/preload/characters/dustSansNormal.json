@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				14,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sans left"
+		},
+		{
+			"offsets": [
+				-2,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sans down"
+		},
+		{
+			"offsets": [
+				-7,
+				-156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sans up"
+		},
+		{
+			"offsets": [
+				-10,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sans right"
+		},
+		{
+			"offsets": [
+				-10,
+				-170
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "sans idle dance"
+		},
+		{
+			"offsets": [
+				-10,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sans idle dance"
+		},
+		{
+			"offsets": [
+				11,
+				-174
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "sans left"
+		},
+		{
+			"offsets": [
+				-10,
+				-173
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "sans right"
+		},
+		{
+			"offsets": [
+				-8,
+				-157
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "sans up"
+		},
+		{
+			"offsets": [
+				-4,
+				-170
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "sans down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dust_Sans",
+	"position": [
+		50,
+		30
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-70,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

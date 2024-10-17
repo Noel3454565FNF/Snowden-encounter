@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Lamentabling",
+			"dad",
+			[
+				20,
+				0,
+				115
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"",
+		"bf"
+	],
+	"storyName": "Genocide",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,3 @@
+move the camera in a specific cords
+v1: posX
+v2: posY
